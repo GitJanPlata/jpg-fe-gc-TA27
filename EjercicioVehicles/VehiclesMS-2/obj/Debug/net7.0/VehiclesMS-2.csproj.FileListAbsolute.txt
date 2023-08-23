@@ -1,0 +1,15 @@
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\bin\Debug\net7.0\VehiclesMS-2.exe
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\bin\Debug\net7.0\VehiclesMS-2.deps.json
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\bin\Debug\net7.0\VehiclesMS-2.runtimeconfig.json
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\bin\Debug\net7.0\VehiclesMS-2.dll
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\bin\Debug\net7.0\VehiclesMS-2.pdb
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\obj\Debug\net7.0\VehiclesMS-2.csproj.AssemblyReference.cache
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\obj\Debug\net7.0\VehiclesMS-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\obj\Debug\net7.0\VehiclesMS-2.AssemblyInfoInputs.cache
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\obj\Debug\net7.0\VehiclesMS-2.AssemblyInfo.cs
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\obj\Debug\net7.0\VehiclesMS-2.csproj.CoreCompileInputs.cache
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\obj\Debug\net7.0\VehiclesMS-2.dll
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\obj\Debug\net7.0\refint\VehiclesMS-2.dll
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\obj\Debug\net7.0\VehiclesMS-2.pdb
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\obj\Debug\net7.0\VehiclesMS-2.genruntimeconfig.cache
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\VehiclesMS-2\VehiclesMS-2\obj\Debug\net7.0\ref\VehiclesMS-2.dll
