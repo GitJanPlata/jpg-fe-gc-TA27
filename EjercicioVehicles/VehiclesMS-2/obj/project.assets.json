@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\bootcamp\\BACKEND\\jpg-fe-gc-TA27\\VehiclesMS-2\\VehiclesMS-2\\VehiclesMS-2.csproj",
+      "projectUniqueName": "E:\\bootcamp\\BACKEND\\jpg-fe-gc-TA27\\EjercicioVehicles\\VehiclesMS-2\\VehiclesMS-2.csproj",
       "projectName": "VehiclesMS-2",
-      "projectPath": "E:\\bootcamp\\BACKEND\\jpg-fe-gc-TA27\\VehiclesMS-2\\VehiclesMS-2\\VehiclesMS-2.csproj",
+      "projectPath": "E:\\bootcamp\\BACKEND\\jpg-fe-gc-TA27\\EjercicioVehicles\\VehiclesMS-2\\VehiclesMS-2.csproj",
       "packagesPath": "C:\\Users\\janll\\.nuget\\packages\\",
-      "outputPath": "E:\\bootcamp\\BACKEND\\jpg-fe-gc-TA27\\VehiclesMS-2\\VehiclesMS-2\\obj\\",
+      "outputPath": "E:\\bootcamp\\BACKEND\\jpg-fe-gc-TA27\\EjercicioVehicles\\VehiclesMS-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\janll\\AppData\\Roaming\\NuGet\\NuGet.Config",

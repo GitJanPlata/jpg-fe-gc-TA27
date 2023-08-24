@@ -1,0 +1,5 @@
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\EjercicioJobs\EjercicioJobs\obj\Debug\net7.0\EjercicioJobs.csproj.AssemblyReference.cache
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\EjercicioJobs\EjercicioJobs\obj\Debug\net7.0\EjercicioJobs.GeneratedMSBuildEditorConfig.editorconfig
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\EjercicioJobs\EjercicioJobs\obj\Debug\net7.0\EjercicioJobs.AssemblyInfoInputs.cache
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\EjercicioJobs\EjercicioJobs\obj\Debug\net7.0\EjercicioJobs.AssemblyInfo.cs
+E:\bootcamp\BACKEND\jpg-fe-gc-TA27\EjercicioJobs\EjercicioJobs\obj\Debug\net7.0\EjercicioJobs.csproj.CoreCompileInputs.cache

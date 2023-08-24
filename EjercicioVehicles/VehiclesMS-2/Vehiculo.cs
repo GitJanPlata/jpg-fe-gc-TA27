@@ -12,6 +12,8 @@ namespace VehiclesMS_2
         public string Matricula { get; set; }
         public string Marca { get; set; }
         public string Color { get; set; }
+        public Titular Titular { get; set; }
+        public List<Persona> Conductores { get; set; } = new List<Persona>();
 
         public virtual void MostrarInfo()
         {
@@ -73,8 +75,7 @@ namespace VehiclesMS_2
             return eleccion;
         }
 
-        public Titular Titular { get; set; }
-        public List<Persona> Conductores { get; set; } = new List<Persona>();
+        
 
         public static Vehiculo CrearVehiculo(int eleccion, List<Persona> personas)
         {
